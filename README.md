@@ -13,3 +13,9 @@ Código da cidade:
 
 Informações do mar, dia atual:
     http://servicos.cptec.inpe.br/XML/cidade/3154/dia/0/ondas.xml
+
+Informações do tempo 7 dias:
+    http://servicos.cptec.inpe.br/XML/cidade/7dias/3154/previsao.xml
+
+Informações do mar, 7 dias:
+    http://servicos.cptec.inpe.br/XML/cidade/3154/todos/tempos/ondas.xml
